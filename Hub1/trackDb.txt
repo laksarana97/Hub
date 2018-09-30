@@ -1,0 +1,7 @@
+track  isl5.bigwig
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/kavin97/Hub/isl5.bigwig
+shortLabel isl1d5
+longLabel bigWig file containing ChIP-exo data for Isl1 D5
+type bigWig
+
+
