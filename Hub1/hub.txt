@@ -1,5 +1,0 @@
-hub Hub1
-shortLabel Isl1_Day5
-longLabel Day 5 ChIP-exo data collected for TFIsl1 Mus musculus
-genomesFile Hub1/genomes.txt
-email  kavindu.puwakdandawalokuackarige@mail.utoronto.ca
